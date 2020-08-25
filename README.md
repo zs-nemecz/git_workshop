@@ -20,4 +20,5 @@
 6. Merge your changes to the master branch.
    - Switch back to master with `git checkout master`.
    - Merge with `git merge <name_of_your_branch>`.
+7. You are ready  :clap:
   
